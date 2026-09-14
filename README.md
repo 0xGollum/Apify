@@ -5,7 +5,7 @@ you *what just changed that's worth acting on* — a price shortening before a r
 volume landing today, a company that just filed to raise money. Not raw scrapes. Named signals,
 small structured datasets, built to run on a schedule.
 
-**▶ All 31 actors on the Apify Store → [apify.com/0xgollum](https://apify.com/0xgollum)**
+**▶ All 32 actors on the Apify Store → [apify.com/0xgollum](https://apify.com/0xgollum)**
 
 ---
 
@@ -59,6 +59,12 @@ small structured datasets, built to run on a schedule.
 | <img src="icons/global-job-aggregator-icon.png" width="46"> | **[LinkedIn, Reed, Talent.com and more — one deduplicated job feed.](#global-job-aggregator)**<br><sub>Global Job Aggregator</sub> |
 | <img src="icons/news-trending-detector-icon.jpg" width="46"> | **[Not what's published — what's *accelerating*.](#news-trending-detector)**<br><sub>News Trending Detector</sub> |
 | <img src="icons/tire-market-pulse-icon.png" width="46"> | **[Every brand's tire prices, specs and EU labels in one dataset.](#tire-market-pulse)**<br><sub>Tire Market Pulse</sub> |
+
+## 🌐 Social platform data
+
+| | |
+|:--:|:--|
+| <img src="icons/bluesky-scraper-icon.jpg" width="46"> | **[Profiles, posts, followers and search — no login needed for any of it.](#bluesky-scraper)**<br><sub>Bluesky Scraper</sub> |
 
 ---
 
@@ -478,6 +484,25 @@ Price, specification and EU label data across all brands, structured.
 <img src="covers/tire-market-pulse.jpg" width="100%">
 
 **→ [See it on the Apify Store](https://apify.com/0xgollum/tire-market-pulse)**
+
+---
+
+# 🌐 Social platform data
+
+## Bluesky Scraper
+
+<img src="icons/bluesky-scraper-icon.jpg" width="80" align="right">
+
+**Profiles, posts, followers and search — no login needed for any of it.**
+
+Bluesky's public API answers profile, post, follower/following and account-search queries with
+no login, no proxy, no cookies. Feed it handles or a search term and get back structured rows —
+the one exception is keyword post search, which Bluesky itself gates behind a session (bring
+your own App Password to unlock it).
+
+<img src="covers/bluesky-scraper.jpg" width="100%">
+
+**→ [See it on the Apify Store](https://apify.com/0xgollum/bluesky-scraper)**
 
 ---
 
