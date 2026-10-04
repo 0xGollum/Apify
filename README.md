@@ -110,6 +110,8 @@ on the racecard the move is done. This actor watches every race still open for b
 **`steamer`** (money coming in) or **`drifter`** (confidence draining) the moment it happens. Opt
 in to hidden-form patterns too: first-time runner, long winless streak, race-day jockey change.
 
+**New (v0.3): 19 source-side filters** — country, racecourse, discipline, category, distance, prize, runners, going, start time, odds range… — so you only get (and pay for) the races you want.
+
 <img src="covers/horse-racing-pulse.jpg" width="100%">
 
 **→ [See it on the Apify Store](https://apify.com/0xgollum/horse-racing-pulse)**
@@ -122,6 +124,8 @@ in to hidden-form patterns too: first-time runner, long winless streak, race-day
 
 Horse Racing Pulse gone international: Japan, France, UK, Ireland, USA, Australia, Germany, South
 Africa, New Zealand. Same steamer/drifter signals, one dataset, all markets.
+
+**New (v0.3): the same 19 source-side filters**, with identical input names, across every market.
 
 <img src="covers/world-turf-pulse.jpg" width="100%">
 
